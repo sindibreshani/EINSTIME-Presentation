@@ -1,0 +1,168 @@
+<!Doctype html>
+<html>
+<title>philosophyy</title>
+
+<head>
+
+<style>
+
+			.escape1 
+
+		
+		h1 {
+			font-size: 35px;
+			font-family: lucida sans typewriter;
+			color:#3A3A3A;
+			position:fixed;
+			left:30px;
+			top:80px;
+			font-weight:normal;
+
+			}
+			h2 {
+			font-size: 12px;
+			font-family: lucida sans typewriter;
+			color:#3A3A3A;
+			position:fixed;
+			left:30px;
+			top:160px;
+			font-weight:normal;
+
+			}
+
+
+
+	.philosophy 
+
+		a {
+			font-size: 20px;
+			font-family: lucida sans typewriter;
+			color: #494849;
+			position: absolute;
+			left: 30px;
+			top : 370px;
+			}
+			a:hover { 
+
+							color:#4A9997
+	}
+
+
+
+	a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.process 
+
+		a {
+				font-size: 20px;
+			font-family: lucida sans typewriter;
+			color: #494849;
+			position: absolute;
+			left: 30px;
+			top : 400px;
+			}
+			a:hover { 
+
+							color:#4A9997
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.creation
+
+		a {
+				font-size: 20px;
+			font-family: lucida sans typewriter;
+			color: #494849;
+			position: absolute;
+			left: 30px;
+			top : 430px;
+			}
+			a:hover { 
+
+							color:#4A9997
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.myeinstime
+
+		a {
+				font-size: 20px;
+			font-family: lucida sans typewriter;
+			color: #494849;
+			position: absolute;
+			left: 30px;
+			top : 460px;
+			}
+			a:hover { 
+
+							color:#4A9997
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+.second {
+	position: absolute;
+		left:100px;
+		top:100px;
+		transition:1s;
+
+}
+	
+
+</style>
+
+</head>
+
+<body >
+
+
+				<div class = "philosophy">
+                  <a href="philosophyy">philosophy</a>
+					
+				</div>
+				<div class = "process">
+					<a href="www.google.com">process</a>
+				</div>
+				<div class = "creation">
+					<a href="www.google.com">Einstime</a>
+				</div>
+				<div class = "myeinstime">
+					<a href="www.google.com">my einstime</a>
+				</div>
+
+
+				<div class = "second">
+					<img src="escapee/seconds.png" width="219.7px" height="339.7px">
+				</div>
+
+				<div class = "escape1">
+		<a href="escape"> 
+
+					<p> <h1> Escape. </h1> </p>
+					<p> <h2> <i> verb  <h2> </i> </p>
+					<p> </p>
+					<p> 1. break free from a confinement or control </p>
+
+			
+					</div>
+
+
+
+
+
+	</body>
+
+
+
+</html>
